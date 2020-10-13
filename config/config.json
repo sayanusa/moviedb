@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "shichibukai",
+    "database": "all-star-movie",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "admin",
+    "database": "all-star-movie_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "htqjhpnxfrbgab",
+    "password": "f916fba7f058b96f554d7f80f10d89655a6b046bc2f344005aedc0191fcdfb16",
+    "database": "d5oki5017svep6",
+    "host": "ec2-52-21-0-111.compute-1.amazonaws.com",
+    "dialect": "postgres"
+  }
+}
